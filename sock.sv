@@ -1,3 +1,4 @@
+`timescale 10 ns / 1 ns
 package sock;
 
 // Tested on modelsim altera starter edition for linux
